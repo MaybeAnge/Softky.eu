@@ -1,0 +1,14 @@
+{
+  "name": "softky.eu",
+  "version": "1.0.0",
+  "description": "Softky est un service annexe de SOFTKY GROUP , dont l'édition dépend de ce-dit organisme. SOFTKY GROUP est enregistrée au statut d'association de loi 1901.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maybe Ange",
+  "license": "CC-BY-ND-4.0",
+  "dependencies": {
+    "canvas-confetti": "^1.6.0"
+  }
+}

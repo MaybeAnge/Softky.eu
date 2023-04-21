@@ -1,0 +1,10 @@
+{
+    "require": {
+        "team-reflex/discord-php": "^4.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
