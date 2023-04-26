@@ -25,6 +25,8 @@ Softky is an additional service of SOFTKY GROUP, the edition of which depends on
     If you have any questions or concerns regarding the copyrights or trademarks of Maybe Ange Corporation,
     please contact our teams at the following email address: contact.support@maybe-ange.com
      
-# 👑 Behalf: Maybe Ange
+# 👑 Director: Maybe Ange
 
-https://maybe-ange.com
+WebSite: https://maybe-ange.com <br>
+Discord: https://discord.gg/maybe-ange <br>
+Instagram: https://www.instagram.com/maybe.ange/
